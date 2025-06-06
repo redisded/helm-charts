@@ -28,7 +28,6 @@ config:
   # -- If true, return NOERROR when attempting to resolve an IPv6 address
   noIPv6Lookups: false
 
-
   # -- Max TTL for cached entries, in seconds.
   cacheTtl: 30
 
